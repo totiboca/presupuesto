@@ -1,0 +1,19 @@
+Presupuesta para el proyecto "Dinastia"
+
+El objetivo del proyecto Dinastia es el desarrollo del sitio web responsive (Celular, Pc y tablet) de un Home y 5 secciones.
+
+Las fases de desarrollo son :
+
+Fase de diseño
+Fase estructural
+Fase de construccion
+Fase de pruebas
+Fase de entrega y puesta y produccion
+
+Incluimos el alojamiento en un hosting a convenir con los servicios SEO ,Analitics y seguridad https.
+
+El costo del mismo es de $45000 final.
+
+Se puede incluir el manteminiento mensual de $3000.
+
+
